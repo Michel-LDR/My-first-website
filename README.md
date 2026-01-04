@@ -4,7 +4,7 @@ Meu primeiro projeto como desenvolvedor web! Um portfólio simples construído a
 
 ## Preview
 
-![Screenshot do projeto](link-da-imagem-aqui](https://github.com/Michel-LDR/My-first-website/blob/main/imagens/Screenshot.jpeg)
+![Screenshot do projeto](https://github.com/Michel-LDR/My-first-website/blob/main/imagens/Screenshot.jpeg)
 
 ## Sobre o Projeto
 
